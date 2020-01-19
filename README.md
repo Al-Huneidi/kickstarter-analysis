@@ -6,7 +6,8 @@ Charts are included for a quick glance at the results of the different fundraise
 -Goal and Pledged Box and Whipser Chart
 -Parent Category Outcomes
 -Subcategory Statistics
-  
+ 
+ ### challenge
 New Excel workbooks uploaded to analyze the percentage of outcomes based on goals and the outcomes based on date launched.
 Charts included:
 -Percentage of Outcomes Based On Goals
